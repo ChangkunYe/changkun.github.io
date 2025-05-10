@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Changkun Ye"
-  pronouns         : "Mr."
+  pronouns         : # 
   bio              : "Final Year PhD at Australian National University"
   location         : "China"
   employer         : "Australian National Unversity"
