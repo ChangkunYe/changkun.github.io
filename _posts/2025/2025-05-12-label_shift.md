@@ -7,13 +7,21 @@ tags:
   - EM algorithm
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+Deploying Deep Neural Network (NN) models into the real world tasks usually face the problem of distribution shift. Specifically, when the data we used to train the model (train set) and test the model (test set) have different data distributions, the model train on the source domain (train) distribution may perform sub-optimally on the target domain (test) distribution. 
 
-Headings are cool
+
+A Brief History of the Label Shift Problem
 ======
 
-You can have many headings
+Definition of the Closed Set Label Shift Problem
 ======
 
-Aren't headings cool?
+
+Detection Problem
+------
+
+Estimation Problem
+------
+
+Correction Problem
 ------
